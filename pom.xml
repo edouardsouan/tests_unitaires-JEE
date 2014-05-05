@@ -14,6 +14,10 @@
 			<name>Edouard Souan</name>
 			<email>souan.edouard0@gmail.com</email>
 		</developer>
+        <developer>
+            <name>Nicolas Machut</name>
+            <email>machut.nicolas@gmail.com</email>
+        </developer>
 	</developers>
 
 	<properties>
